@@ -6,7 +6,7 @@
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
-      "animated_stiker_pack": false,
+      "animated_sticker_pack": false,
       "tray_image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/18-Romantic@18-Romantic/9/0.png",
       "stickers": [
         { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/18-Romantic@18-Romantic/9/1.webp", "emojis": ["❤️"] },
